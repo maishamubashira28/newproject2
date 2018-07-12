@@ -1,1 +1,2 @@
 Print("Lab 6")
+print("lab6_git")
